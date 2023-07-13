@@ -9,3 +9,14 @@ C:\Users\matheus.hsilva76\source\repos\PSAULA04-AppBanco\obj\Debug\PSAULA04-AppB
 C:\Users\matheus.hsilva76\source\repos\PSAULA04-AppBanco\obj\Debug\PSAULA04-AppBanco.exe
 C:\Users\matheus.hsilva76\source\repos\PSAULA04-AppBanco\obj\Debug\PSAULA04-AppBanco.pdb
 C:\Users\matheus.hsilva76\source\repos\PSAULA04-AppBanco\obj\Debug\PSAULA04_AppBanco.Form1.resources
+D:\Users\matheus.hsilva76\Source\Repos\Matheusobruxo\PSAula04-WindowsForms\bin\Debug\PSAULA04-AppBanco.exe.config
+D:\Users\matheus.hsilva76\Source\Repos\Matheusobruxo\PSAula04-WindowsForms\bin\Debug\PSAULA04-AppBanco.exe
+D:\Users\matheus.hsilva76\Source\Repos\Matheusobruxo\PSAula04-WindowsForms\bin\Debug\PSAULA04-AppBanco.pdb
+D:\Users\matheus.hsilva76\Source\Repos\Matheusobruxo\PSAula04-WindowsForms\obj\Debug\PSAULA04-AppBanco.csproj.AssemblyReference.cache
+D:\Users\matheus.hsilva76\Source\Repos\Matheusobruxo\PSAula04-WindowsForms\obj\Debug\PSAULA04-AppBanco.csproj.SuggestedBindingRedirects.cache
+D:\Users\matheus.hsilva76\Source\Repos\Matheusobruxo\PSAula04-WindowsForms\obj\Debug\PSAULA04_AppBanco.Form1.resources
+D:\Users\matheus.hsilva76\Source\Repos\Matheusobruxo\PSAula04-WindowsForms\obj\Debug\PSAULA04_AppBanco.Properties.Resources.resources
+D:\Users\matheus.hsilva76\Source\Repos\Matheusobruxo\PSAula04-WindowsForms\obj\Debug\PSAULA04-AppBanco.csproj.GenerateResource.cache
+D:\Users\matheus.hsilva76\Source\Repos\Matheusobruxo\PSAula04-WindowsForms\obj\Debug\PSAULA04-AppBanco.csproj.CoreCompileInputs.cache
+D:\Users\matheus.hsilva76\Source\Repos\Matheusobruxo\PSAula04-WindowsForms\obj\Debug\PSAULA04-AppBanco.exe
+D:\Users\matheus.hsilva76\Source\Repos\Matheusobruxo\PSAula04-WindowsForms\obj\Debug\PSAULA04-AppBanco.pdb

@@ -37,7 +37,7 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
             this.btnEnviar = new System.Windows.Forms.Button();
-            this.txtDepositar = new System.Windows.Forms.TextBox();
+            this.txtOperacao = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.lblOperacao = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
@@ -117,7 +117,7 @@
             // panel2
             // 
             this.panel2.Controls.Add(this.btnEnviar);
-            this.panel2.Controls.Add(this.txtDepositar);
+            this.panel2.Controls.Add(this.txtOperacao);
             this.panel2.Controls.Add(this.label6);
             this.panel2.Controls.Add(this.lblOperacao);
             this.panel2.Location = new System.Drawing.Point(21, 102);
@@ -127,7 +127,7 @@
             // 
             // btnEnviar
             // 
-            this.btnEnviar.BackColor = System.Drawing.Color.LightCoral;
+            this.btnEnviar.BackColor = System.Drawing.Color.RosyBrown;
             this.btnEnviar.Font = new System.Drawing.Font("Comic Sans MS", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnEnviar.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.btnEnviar.Location = new System.Drawing.Point(77, 88);
@@ -138,14 +138,14 @@
             this.btnEnviar.UseVisualStyleBackColor = false;
             this.btnEnviar.Click += new System.EventHandler(this.btnEnviar_Click);
             // 
-            // txtDepositar
+            // txtOperacao
             // 
-            this.txtDepositar.Font = new System.Drawing.Font("Comic Sans MS", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtDepositar.Location = new System.Drawing.Point(24, 52);
-            this.txtDepositar.Name = "txtDepositar";
-            this.txtDepositar.Size = new System.Drawing.Size(269, 30);
-            this.txtDepositar.TabIndex = 1;
-            this.txtDepositar.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtDepositar_KeyPress);
+            this.txtOperacao.Font = new System.Drawing.Font("Comic Sans MS", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtOperacao.Location = new System.Drawing.Point(24, 52);
+            this.txtOperacao.Name = "txtOperacao";
+            this.txtOperacao.Size = new System.Drawing.Size(269, 30);
+            this.txtOperacao.TabIndex = 1;
+            this.txtOperacao.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtDepositar_KeyPress);
             // 
             // label6
             // 
@@ -246,7 +246,7 @@
         private System.Windows.Forms.Button btnSacar;
         private System.Windows.Forms.Button btnDepositar;
         private System.Windows.Forms.Button btnEnviar;
-        private System.Windows.Forms.TextBox txtDepositar;
+        private System.Windows.Forms.TextBox txtOperacao;
     }
 }
 
