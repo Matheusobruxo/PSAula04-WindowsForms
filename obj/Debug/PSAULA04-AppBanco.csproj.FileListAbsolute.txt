@@ -1,0 +1,11 @@
+C:\Users\matheus.hsilva76\source\repos\PSAULA04-AppBanco\bin\Debug\PSAULA04-AppBanco.exe.config
+C:\Users\matheus.hsilva76\source\repos\PSAULA04-AppBanco\bin\Debug\PSAULA04-AppBanco.exe
+C:\Users\matheus.hsilva76\source\repos\PSAULA04-AppBanco\bin\Debug\PSAULA04-AppBanco.pdb
+C:\Users\matheus.hsilva76\source\repos\PSAULA04-AppBanco\obj\Debug\PSAULA04-AppBanco.csproj.AssemblyReference.cache
+C:\Users\matheus.hsilva76\source\repos\PSAULA04-AppBanco\obj\Debug\PSAULA04-AppBanco.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.hsilva76\source\repos\PSAULA04-AppBanco\obj\Debug\PSAULA04_AppBanco.Properties.Resources.resources
+C:\Users\matheus.hsilva76\source\repos\PSAULA04-AppBanco\obj\Debug\PSAULA04-AppBanco.csproj.GenerateResource.cache
+C:\Users\matheus.hsilva76\source\repos\PSAULA04-AppBanco\obj\Debug\PSAULA04-AppBanco.csproj.CoreCompileInputs.cache
+C:\Users\matheus.hsilva76\source\repos\PSAULA04-AppBanco\obj\Debug\PSAULA04-AppBanco.exe
+C:\Users\matheus.hsilva76\source\repos\PSAULA04-AppBanco\obj\Debug\PSAULA04-AppBanco.pdb
+C:\Users\matheus.hsilva76\source\repos\PSAULA04-AppBanco\obj\Debug\PSAULA04_AppBanco.Form1.resources
